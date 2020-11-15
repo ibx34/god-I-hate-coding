@@ -1,0 +1,18 @@
+{
+  "name": "ibx324",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node god I hate coding.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ayanaware/bento": "^1.0.0-rc.11",
+    "@ayanaware/bentocord": "^1.0.0-beta.23",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0"
+  }
+}
